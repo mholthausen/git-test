@@ -2,3 +2,4 @@ Dies ist die erste Datei.
 Und die zweite Zeile der ersten Datei.
 Im Branch "description_work" wurde die dritte Zeile in dieser Datei hinzugefügt.
 Nun hat sie im Branch "description" eine vierte Zeile bekommen.
+Eine neue Zeile innerhalb eines losgelösten HEAD für origin/master
