@@ -1,2 +1,3 @@
 Dies ist die zweite Datei.
 Im Branch "description_work" wurde die Zweite Zeile dieser Datei hinzugefügt.
+Finale Zeile in der zweiten Datei durch Branch "description_final".
